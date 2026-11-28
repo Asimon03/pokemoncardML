@@ -6,7 +6,7 @@ from io import BytesIO
 import requests
 
 # MongoDB Atlas connection string
-uri = "mongodb+srv://asimon2_db_user:EfHVdjfRcE54pybM@cluster0.bkehau0.mongodb.net/"
+uri = "CONNECTION STRING"
 
 client = MongoClient(uri)
 
